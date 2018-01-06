@@ -1,6 +1,5 @@
 # 科学技術計算
 ## link
-***
 - [ガウスジョルダン法](./Gauss-Jordan.ipynb)
 - [台形則](./Trapezoidal.ipynb)
 
