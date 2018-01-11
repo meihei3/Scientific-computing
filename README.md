@@ -7,7 +7,7 @@
 一応、すべて関数として使えるが、結果だけほしいいならscipyとかそっち系のライブラリにどうぞ。
 
 ## nbviewer
-- [ガウスジョルダン法](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Gauss-Jordan.ipynb)
+- [ガウス・ジョルダン法](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Gauss-Jordan.ipynb)
 - [台形則](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Trapezoidal.ipynb)
 - [シンプソン則](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Simpson.ipynb)
-- [ガウス・ルジャンドル積分法](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Gauss-Legendre.ipynb)
+- [ガウス・ルジャンドル積分法](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Gauss–Legendre.ipynb)
