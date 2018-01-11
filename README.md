@@ -11,3 +11,4 @@
 - [台形則](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Trapezoidal.ipynb)
 - [シンプソン則](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Simpson.ipynb)
 - [ガウス・ルジャンドル積分法](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Gauss–Legendre.ipynb)
+- [オイラー法](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Euler-method.ipynb)
