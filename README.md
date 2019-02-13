@@ -12,3 +12,4 @@
 - [シンプソン則](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Simpson.ipynb)
 - [ガウス・ルジャンドル積分法](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Gauss–Legendre.ipynb)
 - [オイラー法](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Euler-method.ipynb)
+- [最小二乗法（直線）](http://nbviewer.jupyter.org/github/yameholo/Scientific-computing/blob/master/Least-Squares-Method-Linear.ipynb)
